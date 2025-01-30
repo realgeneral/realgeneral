@@ -30,6 +30,6 @@
 
 <h2 align="left">Contact with me:</h2>
 <p align="left">
-  <a href="https://t.me/realgeneral"><img align="center" src="https://img.shields.io/badge/-realgeneral-black?style=for-the-badge&logo=telegram&logoColor=ffffff" /></a>
-  <a href="realgeneral@outlook.com"><img align="center" src="https://img.shields.io/badge/-realgeneral@outlook.com-black?style=for-the-badge&logo=gmail&logoColor=ffffff" /></a>
+  <a href="https://t.me/tarasovdevs"><img align="center" src="https://img.shields.io/badge/-realgeneral-black?style=for-the-badge&logo=telegram&logoColor=ffffff" /></a>
+  <a href="sz050321@outlook.com"><img align="center" src="https://img.shields.io/badge/-realgeneral@outlook.com-black?style=for-the-badge&logo=gmail&logoColor=ffffff" /></a>
 </p>
